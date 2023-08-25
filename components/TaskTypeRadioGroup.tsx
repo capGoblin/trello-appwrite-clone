@@ -1,5 +1,3 @@
-"use client";
-
 import { useBoardStore } from "@/store/BoardStore";
 import { RadioGroup } from "@headlessui/react";
 import { CheckCircleIcon } from "@heroicons/react/24/solid";
