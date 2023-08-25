@@ -1,3 +1,4 @@
+// api/generateSummary
 // import openai from "@/openai";
 // import { NextResponse } from "next/server";
 
